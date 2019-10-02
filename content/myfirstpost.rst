@@ -8,9 +8,10 @@ Dear self,
 :authors: Henrick Aduda
 :summary: Finding love within self.
 
-My love,what happened to you
+My love
+what happened to you
 nowadays I dont feel your arms wrapped around my heart
-My love,what happened to you 
+My love,what happened to you
 please come back to me
 I am aching for your healing hands	
 
