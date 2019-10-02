@@ -1,17 +1,10 @@
 Title: Dear Self
-
 Date: 2019-10-02 15:20
-
 Modified: 2010-12-05 19:30
-
 Category: Self-love
-
 Tags: poetry, self-love, self-empowerment
-
 Slug: Love
-
 Authors: Henrick Aduda
-
 Summary: Finding love within yourself
 
 My love
