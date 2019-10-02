@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = False
 
 DISQUS_SITENAME = "attilademo"
 GOOGLE_ANALYTICS = "UA-149301960-1"
-
+CSS_OVERRIDE = ['css/darkly.css']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 STATIC_PATHS = ['extras']
