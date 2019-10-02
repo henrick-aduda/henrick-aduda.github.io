@@ -9,7 +9,7 @@ THEME ='./attila/'
 PATH = 'content'
 LOAD_CONTENT_CACHE = False
 TIMEZONE = 'Africa/Nairobi'
-HEADER_COVER = 'static/cover_photo.jpg'
+
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
