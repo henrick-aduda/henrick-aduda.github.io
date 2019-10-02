@@ -10,7 +10,6 @@ Dear self,
 
 My love,what happened to you dfkvvmkdflmlkvmldmvldvmlmv
 nowadays I dont feel your arms wrapped around my heart
-
 My love kldvmllmvlkdmvkldfmvldmvldmvklldmvkldmklvmdlmlvd
 ,s;vl,vl;,slkvmklsmvlksmvklmsklmvsklmvklsdmvkldmklvmdklmv
 what happened to you 
