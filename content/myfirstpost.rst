@@ -23,6 +23,7 @@ please come back to me
 I am aching for your healing hands
 
 
+
 My love
 
 I beg you my love
@@ -42,6 +43,7 @@ I speak to you my love
 Please come back to me
 
 
+
 My love
 
 what happened to you
@@ -57,6 +59,7 @@ I want you to love me when my memories fade
 I want you to love me while I still love you
 
 
+
 My love I know you are hurting
 
 I know the darkness clenches your light
@@ -68,6 +71,7 @@ I know you forgot how it feels like to run against the wind
 My love 
 
 Please come back to me.
+
 
 
 My love 
