@@ -1,4 +1,4 @@
-Welcome to my blog!
+Your inner being is here!
 ###################
 
 :date: 2019/08/28
@@ -8,5 +8,4 @@ Welcome to my blog!
 :author: Henrick
 :summary: Welcome document
 
-Welcome to my blog.
-This is a short page just to show how to put up a static page.
+I so love the generosity of the universe. I love knowing that whatever i put into the universe is always sent back to me . I love knowing the universal laws of attraction.
