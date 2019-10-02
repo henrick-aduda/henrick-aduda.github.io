@@ -9,9 +9,7 @@ Dear Self!
 :summary: Finding love within yourself
 
 My love
-
 what happened to you 
-
 nowadays I dont feel your arms wrapped around my heart
 
 My love 
