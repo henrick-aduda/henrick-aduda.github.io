@@ -7,7 +7,7 @@ SITENAME = 'The Healing Poet'
 SITEURL = 'thehealingpoet.org'
 THEME ='./attila/' 
 PATH = 'content'
-
+LOAD_CONTENT_CACHE = False
 TIMEZONE = 'Africa/Nairobi'
 
 DEFAULT_LANG = 'en'
