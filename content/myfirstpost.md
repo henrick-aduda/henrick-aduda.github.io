@@ -8,7 +8,7 @@ Category: Self-love
 
 Tags: poetry, self-love, self-empowerment
 
-Slug: Dear-self
+Slug: Love
 
 Authors: Henrick Aduda
 
