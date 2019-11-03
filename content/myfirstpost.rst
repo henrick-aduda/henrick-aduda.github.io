@@ -39,3 +39,5 @@ Dear self,
 | I shall love you forever my love
 | Yours sincerely,
 | Yourself.
+
+i LOVE BEING HERE
