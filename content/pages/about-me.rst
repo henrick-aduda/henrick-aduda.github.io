@@ -1,6 +1,10 @@
-Title: About me
-Date: 2019-11-03 22:46
-author: Henrick
+About me,
+##############
+
+:date: 2019-10-02 15:20
+:category: aboutme
+:slug: aboutme
+:authors: Henrick Aduda
 
 ## Henrick 
 
