@@ -2,7 +2,7 @@ about
 ##############
 
 :date: 2019-11-03 2:20
-:slug: Henrick-Aduda
+:slug: about
 :authors: Henrick Aduda
 
 ## Henrick 
