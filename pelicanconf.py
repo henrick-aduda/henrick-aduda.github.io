@@ -30,7 +30,7 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
-
+DISPLAY_PAGES_ON_MENU = True
 DISQUS_SITENAME = "attilademo"
 GOOGLE_ANALYTICS = "UA-149301960-1"
 CSS_OVERRIDE = ['css/darkly.css']
